@@ -1,0 +1,12 @@
+C:\Users\Elmar\source\repos\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.exe.config
+C:\Users\Elmar\source\repos\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.exe
+C:\Users\Elmar\source\repos\BasicQueuingCashier\bin\Debug\BasicQueuingCashier.pdb
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.AssemblyReference.cache
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.QueuingForm.resources
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.CashierWindowQueue.resources
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.Properties.Resources.resources
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.GenerateResource.cache
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.exe
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.pdb
+C:\Users\Elmar\source\repos\BasicQueuingCashier\obj\Debug\BasicQueuingCashier.Serving.resources
